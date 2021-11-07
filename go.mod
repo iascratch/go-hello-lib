@@ -1,4 +1,4 @@
-module gitlab.com/aucampia/try/go-hello-lib
+module github.com/iascratch/go-hello-lib
 
 go 1.16
 
